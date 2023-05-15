@@ -1,0 +1,122 @@
+﻿const generatedBibEntries = {
+    "6493289": {
+        "author": "Upadhyay, R. and Kankar, P. K. and Padhy, P. K. and Gupta, V. K.",
+        "booktitle": "2012 Nirma University International Conference on Engineering (NUiCONE)",
+        "doi": "10.1109/NUICONE.2012.6493289",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:FFT,application:BCI,Classifier:PSD",
+        "number": "10",
+        "pages": "1-4",
+        "title": "Classification of drowsy and controlled EEG signals",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2012"
+    },
+    "6919172": {
+        "author": "Imran, S. M. and Talukdar, M. T. F. and Sakib, S. K. and Pathan, N. S. and Fattah, S. A.",
+        "booktitle": "2014 International Conference on Electrical Engineering and Information & Communication Technology",
+        "doi": "10.1109/ICEEICT.2014.6919172",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:DWT,data:MI,Classifier:KNN,application:BCI",
+        "number": "6",
+        "pages": "1-4",
+        "title": "Motor imagery EEG signal classification scheme based on wavelet domain statistical features",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2014"
+    },
+    "7571827": {
+        "author": "Yavuz, Ebru and Aydemir, \u00d6nder",
+        "booktitle": "2016 International Symposium on INnovations in Intelligent SysTems and Applications (INISTA)",
+        "doi": "10.1109/INISTA.2016.7571827",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:DWT,data:olfaction,Classifier:KNN",
+        "number": "4",
+        "pages": "1-4",
+        "title": "Olfaction recognition by EEG analysis using wavelet transform features",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2016"
+    },
+    "7843474": {
+        "author": "Sherwani, F. and Shanta, Shahnoor and Ibrahim, B. S. K. K. and Huq, M. Saiful",
+        "booktitle": "2016 IEEE EMBS Conference on Biomedical Engineering and Sciences (IECBES)",
+        "doi": "10.1109/IECBES.2016.7843474",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:DWT,data:MI,Classifier:NN,application:BCI",
+        "number": "5",
+        "pages": "360-364",
+        "title": "Wavelet based feature extraction for classification of motor imagery signals",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2016"
+    },
+    "7848266": {
+        "author": "Navea, Roy Francis and Dadios, Elmer",
+        "booktitle": "2016 IEEE Region 10 Conference (TENCON)",
+        "doi": "10.1109/TENCON.2016.7848266",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:DWT,data:Audio,Classifier:ANN",
+        "number": "8",
+        "pages": "1503-1508",
+        "title": "Classification of wavelet-denoised musical tone stimulated EEG signals using artificial neural networks",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2016"
+    },
+    "7885895": {
+        "author": "Ren, Weijie and Han, Min and Wang, Jun and Wang, Dan and Li, Tieshan",
+        "booktitle": "2016 Seventh International Conference on Intelligent Control and Information Processing (ICICIP)",
+        "doi": "10.1109/ICICIP.2016.7885895",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,PCA, Feature extraction methods:FFT,Feature extraction methods:DWT,Feature extraction methods:AR,Feature extraction methods:WPT,Feature extraction methods:SampEn, Feature extraction methods:Hybrid features,Feature extraction methods:Hybrid features + PCA,Feature extraction methods:Hybrid features +mRMR,Feature extraction methods:Hybrid features + Fisher Score, Classifier:mixture of expert,Classifier:ELM,Classifier:MLPNN,Classifier:KNN,Classifier:SVM,Classifier:Fuzzy",
+        "number": "2",
+        "pages": "167-172",
+        "title": "Efficient feature extraction framework for EEG signals classification",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2016"
+    },
+    "8528634": {
+        "author": "Wijayanto, Inung and Rizal, Achmad and Hadiyoso, Sugondo",
+        "booktitle": "2018 4th International Conference on Science and Technology (ICST)",
+        "doi": "10.1109/ICSTC.2018.8528634",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:DWT,data:epileptic,Classifier:SVM",
+        "number": "9",
+        "pages": "1-6",
+        "title": "Multilevel Wavelet Packet Entropy and Support Vector Machine for Epileptic EEG Classification",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2018"
+    },
+    "9036591": {
+        "author": "Miah, Abu Saleh Musa and Islam, Md Rabiul and Molla, Md.Khademul Islam",
+        "booktitle": "2019 International Conference on Computer, Communication, Chemical, Materials and Electronic Engineering (IC4ME2)",
+        "doi": "10.1109/IC4ME247184.2019.9036591",
+        "keywords": "type:EEG,Work:Feature Extraction,Work:Classification,Feature extraction methods:CSP,data:MI,Classifier:SVM,application:BCI",
+        "number": "7",
+        "pages": "1-5",
+        "title": "EEG Classification for MI-BCI using CSP with Averaging Covariance Matrices: An Experimental Study",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2019"
+    },
+    "9603966": {
+        "author": "Dai, Yixiang and Ji, Encai and Yao, Yong",
+        "booktitle": "2021 7th Annual International Conference on Network and Information Systems for Computers (ICNISC)",
+        "doi": "10.1109/ICNISC54316.2021.00187",
+        "keywords": "type:EEG,Work:Feature Extraction,Feature extraction methods:stacked auto-encoder,data:Emotion",
+        "number": "3",
+        "pages": "991-997",
+        "title": "Stacked Auto-Encoder Driven Automatic Feature Extraction for Web-Enabled EEG Emotion Recognition",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2021"
+    },
+    "9915664": {
+        "author": "Amin, Hafeez Ullah and Hafeez, Yasir and Reza, Mohammed Faruque and Adil, Syed Hasan and Hasan, Rumaisa Abu and Ali, Syed Saad Azhar",
+        "booktitle": "2022 IEEE 5th International Symposium in Robotics and Manufacturing Automation (ROMA)",
+        "doi": "10.1109/ROMA55875.2022.9915664",
+        "keywords": "type:EEG,Work:Feature Extraction,Feature extraction methods:FFT,Cognitive and Reasoning Task,data:eye",
+        "number": "1",
+        "pages": "1-4",
+        "title": "EEG Feature Extraction with Fast Fourier Transform for Investigating different Brain regions in Cognitive and Reasoning Activity",
+        "type": "INPROCEEDINGS",
+        "volume": "",
+        "year": "2022"
+    }
+};
